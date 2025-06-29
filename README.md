@@ -1,5 +1,5 @@
 # CodeClauseInternship_FitnessTrackerDashboard
-# 🏋️‍♀️ Fitness Tracker Dashboard
+# 🏋️‍♀️ FitTracker
 
 > **Plan. Track. Improve.**  
 > A sleek, dark-themed, fully responsive **fitness dashboard** built with **React**, **Bootstrap**, and **Chart.js**. Log your activities, schedule workouts, monitor your heart rate, and stay on top of your nutrition goals — all without a backend, thanks to browser-based `localStorage`.
